@@ -17,3 +17,4 @@
   - selenium을 이용한 웹 자동화입니다.
   - 구글 email을 자동으로 로그인, 보냅니다.
   - error) actionChine이 끊기지 않아 중복된 이메일명이 들어갑니다.
+  - > 각 `id` , `passward`에 자신의 gmail 정보를 입력하면 사용가능합니다.
